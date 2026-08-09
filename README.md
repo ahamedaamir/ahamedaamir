@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ahamed Aamir
 
-<h3 align="center">💻 Developer & BICT Undergraduate</h3>
+<h3 align="center">💻 Full-Stack Developer & BICT Undergraduate</h3>
 
 ---
 
