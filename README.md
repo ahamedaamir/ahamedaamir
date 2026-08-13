@@ -1,20 +1,3 @@
-# 👋 Hi, I'm Ahamed Aamir
-
-<h3 align="center">💻 Full-Stack Developer & BICT Undergraduate</h3>
-
----
-
-## 📌 About Me
-
-- 🚀 **ICT Undergraduate** passionate about software development and information & communication technologies.
-- 💻 **Passionate Developer:** Interested in building practical and user-friendly software solutions.
-- 🧠 **Problem Solver:** Enjoy solving programming challenges and improving my logical thinking.
-- 🛠️ **Building Projects:** Developing real-world applications while learning modern development practices.
-- 🌱 **Always Learning:** Continuously exploring new technologies, tools, and development techniques.
-- 🎯 **Goal:** Grow as a skilled developer and build impactful software solutions.
-
----
-
 ## 🛠️ Tech Stack & Technologies
 
 <p align="center">
@@ -22,6 +5,8 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 
 <br>
 
@@ -36,18 +21,3 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
-
----
-
-
-## 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/ahamedaamir">
-<img src="https://img.shields.io/badge/GitHub-Ahamed%20Aamir-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
